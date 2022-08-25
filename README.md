@@ -2,7 +2,6 @@
 
 - 💻 Atualmente programador full-stack
 - 🧠 Estudando Python e JavaScript
-- 📧 Contate-me no email: deolindonetos@gmail.com
 - 🛒 Trabalhando no projeto Ecommerce 2022
 - 😄 Pronouns: ele/dele
 
