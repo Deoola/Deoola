@@ -1,9 +1,9 @@
 ### Eae! Eu sou o Deolindo Scandolera 👋
 
-- 💻 Atualmente programador full-stack
-- 🧠 Estudando Python e JavaScript
-- 🛒 Trabalhando no projeto Ecommerce 2022
-- 😄 Pronouns: ele/dele
+- 💻 Currently full-stack programmer
+- 🧠 Learning Python e JavaScript
+- 🛒 Working on the Ecommerce Project 2022
+- 😄 Pronouns: ele/dele he/his
 
 <div>
   <a href="https://github.com/Deoola">
@@ -12,14 +12,14 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Deola-VisualStudio" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Deola-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Deola-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deola-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deola-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deola-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Deola-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Deola-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Deola-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
   
 ##
   
