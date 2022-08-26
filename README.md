@@ -1,4 +1,4 @@
-### Eae! Eu sou o Deolindo Scandolera 👋
+### Hi, there! Eu sou o Deolindo Scandolera 👋
 
 - 💻 Currently full-stack programmer
 - 🧠 Learning Python e JavaScript
