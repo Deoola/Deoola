@@ -1,6 +1,6 @@
 ### Hi, there! Eu sou o Deolindo Scandolera 👋
 
-- 💻 Currently full-stack programmer
+- 💻 Currently back-end programmer
 - 🧠 Learning Python e JavaScript
 - 🛒 Working on the Ecommerce Project 2022
 - 😄 Pronouns: ele/dele he/his
